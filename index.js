@@ -4,7 +4,7 @@ const context = canvas.getContext("2d");
 
 const frameCount = 162;
 const currentFrame = index => (
-  `images/Women${index.toString().padStart(4, '0')}.png`
+  `images/women1/Women${index.toString().padStart(4, '0')}.png`
 )
 
 const preloadImages = () => {
@@ -41,3 +41,6 @@ window.addEventListener('scroll', () => {
 });
 
 preloadImages()
+
+
+ 
