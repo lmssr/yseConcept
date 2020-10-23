@@ -5,7 +5,8 @@ export const Background = () => {
 
   return (
       <BackgroundWrapper>
-
+        <canvas id="hero-lightpass">
+        </canvas>
       </BackgroundWrapper>
     )
 }
