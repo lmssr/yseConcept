@@ -18,7 +18,7 @@ export const Navigation = styled.nav`
 `
 
 export const Toggle = styled.div`
-  display: none;
+  display: flex;
   height: 100%;
   cursor: pointer;
   padding: 0 10vw;

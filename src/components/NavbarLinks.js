@@ -2,7 +2,7 @@
 
 import React from "react"
 import styled from "styled-components"
-import { Link } from "gatsby"
+import {Link} from "gatsby"
 import { NavItem } from "../elements"
 import {
     FaSearch
